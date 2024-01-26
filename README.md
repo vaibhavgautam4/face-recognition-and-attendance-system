@@ -12,4 +12,4 @@ A simple attendance system based on python's face_recognition library
 pip install requirement.txt
 ```
 
-- once all the requirements are installed run the python file 
+- once all the requirements are installed run the **facerecog.py** python file 
